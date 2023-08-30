@@ -1,16 +1,7 @@
-# imc_app
+<h1>Calculadora de IMC<h1/>
+  
+Projeto desenvolvido em flutter
+<br/> <br/>
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-08-30 105508](https://github.com/clarxyg/app_imc/assets/72956052/5ce610e0-e6cb-4a18-bc7e-c12595e40f9b)
